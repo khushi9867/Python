@@ -1,2 +1,2 @@
 
-prin ("hell")
+print ("hello")
