@@ -1,4 +1,2 @@
-import sys
-prin ("hell")
 
-sys(1)
+prin ("hell")
